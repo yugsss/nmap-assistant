@@ -2,7 +2,7 @@
 
 # 🔍 Nmap Assistant
 
-A powerful and user-friendly desktop application that combines custom port scanning and advanced Nmap scanning in one place. Perfect for cybersecurity students, enthusiasts, or professionals who want a fast, accessible interface for running network scans.
+A powerful and user-friendly desktop application that combines custom port scanning and advanced Nmap scanning in one place. Perfect for cybersecurity students, enthusiasts, or professionals who want a fast, accessible interface for running network scans. 
 
 ---
 
